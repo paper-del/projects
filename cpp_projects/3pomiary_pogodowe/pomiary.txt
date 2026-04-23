@@ -1,0 +1,4 @@
+--- RAPORT POGODOWY ---
+ilosc pomiarow: 5
+srednia temperatura: 12
+najwyzsza temperatura: 30
