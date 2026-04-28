@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "19modul_logowania\\main.cpp",
               "ToolTip": "C:\\Users\\przem\\Desktop\\projekty\\cpp_projects\\19modul_logowania\\19modul_logowania\\main.cpp",
               "RelativeToolTip": "19modul_logowania\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-28T14:34:18.088Z",
               "IsPinned": true,
@@ -49,8 +49,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-28T14:36:58.908Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -62,8 +61,7 @@
               "RelativeToolTip": "19modul_logowania\\Uzytkownik.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-28T14:34:37.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T14:34:37.842Z"
             }
           ]
         }

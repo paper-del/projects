@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="19modul_logowania/19modul_logowania.vcxproj" />
+  <Project Path="19modul_logowania/19modul_logowania.vcxproj" Id="2dddd1b0-e64e-45c3-9ce6-6eec144ca847" />
 </Solution>
