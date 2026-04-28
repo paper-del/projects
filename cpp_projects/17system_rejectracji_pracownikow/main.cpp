@@ -12,7 +12,7 @@ class Pracownik
 
     void dodajPracownika()
     {
-        cout << "prosze podaj imie,nazwisko,stawke godzinowa oraz przepracowane godziny danego pracownika oddzielone spacja";
+        cout << "prosze podaj imie,nazwisko,stawke godzinowa oraz przepracowane godziny danego pracownika oddzielone spacja" << endl;
         cin >> imie >> nazwisko >> stawka_godzinowa >> przepracowane_godziny;
     }
     
@@ -24,7 +24,7 @@ class Pracownik
     {
         cout << "--- KARTA PRACOWNIKA ---" << endl;
         cout << "Pracownik: " << imie << " " << nazwisko << endl;
-        cout << "Wyplata w tym miesiacu: " << obliczWyplate() <<" PLN";
+        cout << "Wyplata w tym miesiacu: " << obliczWyplate() <<" PLN" << endl;
     }
 
 };
