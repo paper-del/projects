@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="20cykl_zycia_bohatera/20cykl_zycia_bohatera.vcxproj" />
+</Solution>

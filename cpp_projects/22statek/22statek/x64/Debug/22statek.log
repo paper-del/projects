@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\przem\Desktop\projekty\cpp_projects\22statek\22statek\main.cpp(12,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Statek.cpp
+C:\Users\przem\Desktop\projekty\cpp_projects\22statek\22statek\Statek.cpp(20,21): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  Generowanie kodu...
+  22statek.vcxproj -> C:\Users\przem\Desktop\projekty\cpp_projects\22statek\x64\Debug\22statek.exe
