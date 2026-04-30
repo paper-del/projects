@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="22statek/22statek.vcxproj" />
+  <Project Path="22statek/22statek.vcxproj" Id="61d0b3f3-8063-4516-8ad5-991f7bbdd126" />
 </Solution>

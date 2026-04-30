@@ -25,5 +25,5 @@ void Statek::skok_nadprzestrzenny(float dystans)
 }
 void Statek::status()
 {
-	cout << "stetek " << nazwa << " aktualnie ma " << energia << " energi" << predkosc << " predkosci " << endl;	
+	cout << "stetek " << nazwa << " aktualnie ma " << energia << " energi" << endl;	
 }
